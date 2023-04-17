@@ -1,0 +1,10 @@
+.Stories{
+    background-color: white;
+    height: 100px;
+    margin: 20px 0;
+    border: 2px solid black;
+    border-radius: 20px;
+    overflow-x: scroll;
+    overflow-wrap:unset;
+    overflow-y: hidden;
+}
