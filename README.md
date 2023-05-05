@@ -1,7 +1,7 @@
 <h1> Clone Instagram</h1>
 
 <center>
-  <img src="display" alt="descrição da imagem-ou-gif">
+  <img src="display.gif" alt="descrição da imagem-ou-gif">
 </center>
 
 ## Available Scripts
