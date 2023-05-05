@@ -1,4 +1,5 @@
-<h1> Getting Started with Create React App</h1>
+<h1> Clone Instagram</h1>
+<img src="url-da-imagem-ou-gif" alt="descrição da imagem-ou-gif">
 <center>
 <img src="display.gif" alt="descrição da imagem-ou-gif">
  </center>
