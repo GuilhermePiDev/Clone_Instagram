@@ -1,6 +1,7 @@
 <h1> Getting Started with Create React App</h1>
-
+<center>
 ![descrição da imagem](display.gif)
+ </center>
 
 ## Available Scripts
 
