@@ -1,8 +1,13 @@
 <h1> Clone Instagram</h1>
 
-<center>
-<img src="display.gif" >
-</center>
+<style>
+  .centro {
+    display: block;
+    margin: auto;
+  }
+</style>
+<img src="display" alt="descrição da imagem-ou-gif" class="centro">
+
 
 ## Available Scripts
 
