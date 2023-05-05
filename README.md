@@ -1,8 +1,10 @@
 <h1> Clone Instagram</h1>
-
-<center>
-  <img src="display.gif" alt="descrição da imagem-ou-gif" margin:auto>
-</center>
+Olá! Seja bem-vindo ao meu projeto acadêmico de Clone do Instagram, desenvolvido com React.js a partir dos conhecimentos adquiridos no Instituto PROA.
+O objetivo deste projeto é aprimorar minhas habilidades e criar a melhor réplica possível do Instagram.
+<p align="center">
+  <img src="display.gif" alt="descrição da imagem-ou-gif" >
+</p>
+ 
 
 ## Available Scripts
 
