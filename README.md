@@ -1,10 +1,11 @@
 <h1> Clone Instagram</h1>
-Olá! Seja bem-vindo ao meu projeto acadêmico de Clone do Instagram, desenvolvido com React.js a partir dos conhecimentos adquiridos no Instituto PROA.
-O objetivo deste projeto é aprimorar minhas habilidades e criar a melhor réplica possível do Instagram.
+Bem-vindo ao meu projeto de um Clone do Instagram,onde os usuários são personagens que gosto e seus maiores desejos, desenvolvido com React.js atraves de conhecimentos adquiridos no PROA.
+
 <p align="center">
-  <img src="display.gif" alt="descrição da imagem-ou-gif" >
+
+  <img src="https://i.pinimg.com/originals/ef/e3/df/efe3df299d8b4afdba9c157c2ee2e844.gif" alt="descrição da imagem-ou-gif" >
 </p>
- 
+
 
 ## Available Scripts
 
