@@ -1,15 +1,16 @@
 <h1> Clone Instagram</h1>
 Bem-vindo ao meu projeto de um Clone do Instagram,onde os usuários são personagens que gosto e seus maiores desejos, desenvolvido com React.js atraves de conhecimentos adquiridos no PROA.
+<br />
 
-<p align="center">
+<p align="center" style="margin-top: 30px;">
 
   <img src="https://i.pinimg.com/originals/ef/e3/df/efe3df299d8b4afdba9c157c2ee2e844.gif" alt="descrição da imagem-ou-gif" >
 </p>
 
 
-## Available Scripts
+##  Como acessar o projeto ?
 
-In the project directory, you can run:
+Você pode simplismente acessar esse link https://clone-instagram-cyan.vercel.app/
 
 ### `npm start`
 
