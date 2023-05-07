@@ -1,7 +1,5 @@
 <h1> Clone Instagram</h1>
-Bem-vindo ao meu projeto de um Clone do Instagram, onde os usuários são personagens que gosto e seus maiores desejos. 
-
-<br />
+Bem-vindo ao meu projeto de um Clone do Instagram, onde os usuários são personagens que gosto e seus maiores desejos.<br/>
 
 <p align="center" >
 
@@ -17,7 +15,3 @@ criei um carrosel nos stories .O projeto foi  desenvolvido com React.js atraves 
 </p>
 Você pode simplismente acessar esse link https://clone-instagram-cyan.vercel.app/ ou baixar o projeto e executa-lo em sua máquina.<br/>
 
-
-### Vai executa-lo em sua maquina ?
-
-1. Baixe e abra o projeto em uma IDE de sua preferencia, acesse o terminal e execute o 
