@@ -13,5 +13,5 @@ criei um carrosel nos stories .O projeto foi  desenvolvido com React.js atraves 
 
   <img src="capturaTelaInstagram.png" alt="descrição da imagem-ou-gif" >
 </p>
-Você pode simplismente acessar esse link https://clone-instagram-cyan.vercel.app/ ou baixar o projeto e executa-lo em sua máquina.<br/>
+Você pode simplesmente acessar esse link https://clone-instagram-cyan.vercel.app/ ou baixar o projeto e executa-lo em sua máquina.<br/>
 
